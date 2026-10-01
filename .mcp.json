@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "1c-odata": {
+      "command": "npx",
+      "args": ["-y", "1c-odata-mcp"],
+      "env": {
+        "ODATA_BASE_URL": "http://localhost/1cexample/odata/standard.odata/",
+        "ODATA_USERNAME": "Администратор (ФедоровБМ)",
+        "ODATA_PASSWORD": ""
+      }
+    }
+  }
+}

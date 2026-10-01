@@ -1,0 +1,19 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "http://localhost:4000",
+    "ANTHROPIC_AUTH_TOKEN": "sk-...",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "gpt-oss-20b",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "gpt-oss-20b",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "gpt-oss-20b",
+    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1",
+    "DISABLE_AUTOUPDATER": "1",
+    "DISABLE_TELEMETRY": "1",
+    "DISABLE_ERROR_REPORTING": "1",
+    "CLAUDE_CODE_DISABLE_UNKNOWN_MODEL_WINDOW_ENFORCEMENT": "1"
+  },
+  "model": "opus",
+  "language": "Russian",
+  "autoUpdatesChannel": "latest",
+  "theme": "dark",
+  "editorMode": "normal"
+}
