@@ -2,7 +2,7 @@
 
 Требуется существующее рабочее пространство в [Yandex AI Studio](https://aistudio.yandex.ru/) + значения ID рабочей папки (для примера используется `b1g540utdtsfepohbl4h`) + сгенерированный [API ключ](https://aistudio.yandex.ru/ru/docs/ai-studio/operations/get-api-key).
 
-1. Открыть в браузере http://localhost:4000 и авторизоваться:
+1. [Запустить LiteLLM](../litellm/README.md) и открыть в браузере http://localhost:4000 и авторизоваться:
     - **Пользователь:** admin
     - **Папроль:** Смотри параметр мастер ключа `LITELLM_MASTER_KEY` в [litellm/.env](/litellm/.env)
 2. Заходим в раздел `Models + Endpoints`: http://localhost:4000/ui/models-and-endpoints
