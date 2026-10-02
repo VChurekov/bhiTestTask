@@ -81,8 +81,6 @@ curl http://localhost:4000/v1/models \
   -H "Authorization: Bearer $LITELLM_MASTER_KEY"
 ```
 
----
-
 ### 5. Остановить
 
 ```bash
